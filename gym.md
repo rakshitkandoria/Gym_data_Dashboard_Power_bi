@@ -8,7 +8,7 @@
 
 
 # DASHBOARD
-![Screenshot 2025-01-12 233449](https://github.com/user-attachments/assets/1b7301d7-5c30-4f2d-a5ea-df24cd95a062)
+![Screenshot 2025-01-12 233449](https://github.com/user-attachments/assets/e0712f18-fa32-4338-b455-337314840d27)
 
 
 ## 📊 DASHBOARD-HIGHLIGHTS
